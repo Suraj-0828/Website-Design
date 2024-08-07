@@ -1,0 +1,10 @@
+=============== Footer Pages ===================
+
+# First 
+Create Footer Pages
+
+<!-- Footer Start -->
+<?php include 'Footer.php'; ?>
+<!-- Footer Close-->
+
+=============== Footer Pages ===================
